@@ -1,3 +1,7 @@
+*
+{
+	box-sizing: border-box;
+}
 #centrage
 {
 	width: 75%;
