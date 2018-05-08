@@ -38,7 +38,7 @@ color: white;
 	display: flex;
 	align-items: center;
 }
-.our, h2
+.our h2
 {
 	font-size: 34px;
 	color: #615b5d;
@@ -81,7 +81,7 @@ select{
 	display: flex;
 	align-items: center;
 }
-.fine, h2
+.fine h2
 {
 	color: #615b5d;
 	font-size: 34px;
